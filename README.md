@@ -29,7 +29,8 @@ The project can be viewed locally on [localhost:3000](http://localhost:3000/)
 
 ## Live App Page
 
-You can see the live page on [Netlify](https://visionary-figolla-db2c32.netlify.app/)
+You can see the live page on [Netlify](https://countriesapplist.netlify.app/)
+
 
 ### App Page Screenshot
 
