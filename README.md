@@ -11,6 +11,7 @@ This is an app where you can view information of different countries in a grid f
 ## Technologies and Resources Used
     * React
     * Bootstraap
+    * RestApi
     * Firebase
 
 ## Testing the project
@@ -34,4 +35,4 @@ You can see the live page on [Netlify](https://countriesapplist.netlify.app/)
 
 ### App Page Screenshot
 
-This is a screenshot of the app ![homepage:](/src/assets/recipe.png)
+This is a screenshot of the app ![homepage:](/src/assets/homepage.png)

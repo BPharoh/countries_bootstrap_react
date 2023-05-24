@@ -31,7 +31,7 @@ pipeline {
 
     stage('status') {
       steps {
-        sh 'echo Hurray !!! Nothing runnned successfully ......'
+        sh 'echo Hurray !!! successfully ......'
       }
     }
 
